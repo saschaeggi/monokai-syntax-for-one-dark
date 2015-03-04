@@ -6,12 +6,12 @@
   "description": "A dark monokai syntax for the One Dark UI theme, based on jdsimcoe Proton Kai",
   "repository": {
     "type": "git",
-    "url": "https://github.com/saschaeggi/monokai-syntax-one-dark"
+    "url": "https://github.com/saschaeggi/monokai-syntax-for-one-dark"
   },
   "private": true,
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/saschaeggi/monokai-syntax-one-dark/issues"
+    "url": "https://github.com/saschaeggi/monokai-syntax-for-one-dark/issues"
   },
   "engines": {
     "atom": ">0.183.0"
