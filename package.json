@@ -1,0 +1,19 @@
+{
+  "name": "monokai-syntax-for-one-dark",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "private": false,
+  "description": "A dark monokai syntax for the One Dark UI theme, based on jdsimcoe Proton Kai",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saschaeggi/monokai-syntax-one-dark"
+  },
+  "private": true,
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saschaeggi/monokai-syntax-one-dark/issues"
+  },
+  "engines": {
+    "atom": ">0.183.0"
+  }
+}
